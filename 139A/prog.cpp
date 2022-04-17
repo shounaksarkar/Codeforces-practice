@@ -24,5 +24,6 @@ int main(){
         }
         d-=a[i];
     }
+    cout<<"TESTING";
     return 0;
 }
